@@ -1,0 +1,21 @@
+C:\Users\근로\Desktop\VS Projects\labelPos\bin\Debug\labelPos.exe.config
+C:\Users\근로\Desktop\VS Projects\labelPos\bin\Debug\labelPos.exe
+C:\Users\근로\Desktop\VS Projects\labelPos\bin\Debug\labelPos.pdb
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.csprojResolveAssemblyReference.cache
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.Form1.resources
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.Form2.resources
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.Properties.Resources.resources
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.csproj.GenerateResource.Cache
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.exe
+C:\Users\근로\Desktop\VS Projects\labelPos\obj\Debug\labelPos.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\bin\Debug\labelPos.exe.config
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\bin\Debug\labelPos.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\bin\Debug\labelPos.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.Form1.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.Form2.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.Properties.Resources.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\labelPos\obj\Debug\labelPos.pdb
