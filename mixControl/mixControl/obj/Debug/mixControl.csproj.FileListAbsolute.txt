@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\bin\Debug\mixControl.exe.config
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\bin\Debug\mixControl.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\bin\Debug\mixControl.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.Form1.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.Form2.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.Properties.Resources.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\mixControl\mixControl\obj\Debug\mixControl.pdb
