@@ -52,6 +52,7 @@ namespace mixControl
             this.menuStrip1.Size = new System.Drawing.Size(800, 33);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.MenuActivate += new System.EventHandler(this.menuStrip1_MenuActivate);
             // 
             // 메뉴MToolStripMenuItem
             // 
@@ -68,24 +69,28 @@ namespace mixControl
             this.사각형ToolStripMenuItem.Name = "사각형ToolStripMenuItem";
             this.사각형ToolStripMenuItem.Size = new System.Drawing.Size(186, 34);
             this.사각형ToolStripMenuItem.Text = "사각형";
+            this.사각형ToolStripMenuItem.Click += new System.EventHandler(this.사각형ToolStripMenuItem_Click);
             // 
             // 원형ToolStripMenuItem
             // 
             this.원형ToolStripMenuItem.Name = "원형ToolStripMenuItem";
             this.원형ToolStripMenuItem.Size = new System.Drawing.Size(186, 34);
             this.원형ToolStripMenuItem.Text = "원형";
+            this.원형ToolStripMenuItem.Click += new System.EventHandler(this.원형ToolStripMenuItem_Click);
             // 
             // 자유곡선ToolStripMenuItem
             // 
             this.자유곡선ToolStripMenuItem.Name = "자유곡선ToolStripMenuItem";
             this.자유곡선ToolStripMenuItem.Size = new System.Drawing.Size(186, 34);
             this.자유곡선ToolStripMenuItem.Text = "자유곡선";
+            this.자유곡선ToolStripMenuItem.Click += new System.EventHandler(this.자유곡선ToolStripMenuItem_Click);
             // 
             // 대화상자ToolStripMenuItem
             // 
             this.대화상자ToolStripMenuItem.Name = "대화상자ToolStripMenuItem";
             this.대화상자ToolStripMenuItem.Size = new System.Drawing.Size(100, 29);
             this.대화상자ToolStripMenuItem.Text = "대화상자";
+            this.대화상자ToolStripMenuItem.Click += new System.EventHandler(this.대화상자ToolStripMenuItem_Click);
             // 
             // contextMenuStrip1
             // 

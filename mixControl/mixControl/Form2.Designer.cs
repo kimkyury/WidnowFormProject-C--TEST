@@ -39,6 +39,7 @@ namespace mixControl
             // 
             // button1
             // 
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.button1.Location = new System.Drawing.Point(172, 299);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(121, 52);

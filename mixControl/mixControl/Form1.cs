@@ -106,9 +106,6 @@ namespace mixControl
                 G.Dispose();
             }
         }
-
-
-
         //6. 하나의 도형을 마치는 기준은 마우스를 뗄 때다. mouseUp 이벤트 핸들러를 이용하자
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
@@ -151,6 +148,50 @@ namespace mixControl
                 }
 
             }
+        }
+
+        // 8. 메뉴클릭시 해당 모양으로 설정되게 하자
+        private void 사각형ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            iCurrentShape = 0;
+            Invalidate();
+        }
+
+        private void 원형ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            iCurrentShape = 1;
+            Invalidate();
+        }
+
+        private void 자유곡선ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            iCurrentShape = 2;
+            Invalidate();
+        }
+
+
+
+
+        // 9. MenuStrip의 menuActivate의 이벤트핸들, 이벤트가 활성화되면
+        private void menuStrip1_MenuActivate(object sender, EventArgs e)
+        {
+            원형ToolStripMenuItem.Checked = (iCurrentShape == 0);
+            사각형ToolStripMenuItem.Checked = (iCurrentShape == 1);
+            자유곡선ToolStripMenuItem.Checked = (iCurrentShape == 2);
+        }
+
+
+        // 9. 대화상자 팝업이 나타나게하고, 그에 따른 정보의 전달이 일어나도록 하자
+        private void 대화상자ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 dlg = new Form2();
+            //
+            dlg.Shape = iCurrentShape;
+            if(dlg.ShowDialog() == DialogResult.OK)
+            {
+                iCurrentShape = dlg.Shape;
+            }
+            dlg.Dispose();
         }
     }
 
