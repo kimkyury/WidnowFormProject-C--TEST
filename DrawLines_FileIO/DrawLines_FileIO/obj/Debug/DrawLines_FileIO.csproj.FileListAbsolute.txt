@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\bin\Debug\DrawLines_FileIO.exe.config
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\bin\Debug\DrawLines_FileIO.exe
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\bin\Debug\DrawLines_FileIO.pdb
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.Form1.resources
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.Form2.resources
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.Properties.Resources.resources
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.exe
+C:\Users\user\source\repos\DrawLines_FileIO\DrawLines_FileIO\obj\Debug\DrawLines_FileIO.pdb
