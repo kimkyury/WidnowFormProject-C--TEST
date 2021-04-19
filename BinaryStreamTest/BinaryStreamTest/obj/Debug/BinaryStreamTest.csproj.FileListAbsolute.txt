@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe.config
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Form1.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Properties.Resources.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb
