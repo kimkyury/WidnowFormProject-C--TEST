@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.exe.config
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.pdb
