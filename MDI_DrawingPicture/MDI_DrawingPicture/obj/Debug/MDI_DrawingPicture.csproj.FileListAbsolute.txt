@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\bin\Debug\MDI_DrawingPicture.exe.config
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\bin\Debug\MDI_DrawingPicture.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\bin\Debug\MDI_DrawingPicture.pdb
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.Form1.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.Form2.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.Properties.Resources.resources
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.exe
+C:\Users\user\Desktop\WidnowFormProject-C--TEST\MDI_DrawingPicture\MDI_DrawingPicture\obj\Debug\MDI_DrawingPicture.pdb
